@@ -14,5 +14,5 @@ Add more fonts/texture - CoolLine uses LibSharedMedia
 
 Ported by me for Classic, all rights reserved by original owners
 
-https://www.curseforge.com/wow/addons/coolline-cooldowns by jinjin50 & phanxaddons
+https://www.curseforge.com/wow/addons/coolline-cooldowns by jinjin50 & phanxaddons  
 https://github.com/shirsig/cooline
