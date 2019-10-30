@@ -7,10 +7,10 @@ CoolLine is inspired by Forte_Cooldown (a module in the ForteXorcist package). C
 
 How to Use:
 
-Change settings - "/coolline" or check Interface Options -> AddOns
-Change position and size - unlock to make it draggable and resizable
-Filter/unfilter a spell or item cooldown - "/coolline Spell Item Name Link"
-Add more fonts/texture - CoolLine uses LibSharedMedia
+Change settings - "/coolline" or check Interface Options -> AddOns  
+Change position and size - unlock to make it draggable and resizable  
+Filter/unfilter a spell or item cooldown - "/coolline Spell Item Name Link"  
+Add more fonts/texture - CoolLine uses LibSharedMedia  
 
 Ported by me for Classic, all rights reserved by original owners
 
